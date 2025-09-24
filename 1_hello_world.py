@@ -1,5 +1,5 @@
 #
-# James
+# Max
 # Print Hello World!
 #
 
@@ -8,4 +8,5 @@
 # 2. Process
 
 # 3. Output
-print('Hello THU SALOOOO!')
+print('Hello Tunghai University!')
+print("I like Professor Kim's class a lot")
