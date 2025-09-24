@@ -1,6 +1,6 @@
 {
     "Task Template": {
-        "prefix": "jamestask",
+        "prefix": "maxtask",
         "body": [
             "#",
             "# ${TM_FILENAME_BASE/(^[^_]*)_.*/$1/}, ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE}",
